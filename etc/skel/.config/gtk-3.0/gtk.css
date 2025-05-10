@@ -1,0 +1,20 @@
+
+.xfce4-panel#XfcePanelWindow {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#whiskermenu-window {
+    border-radius: 13px;
+}
+
+#whiskermenu-window treeview {
+    border-radius: 3px;
+}
+
+#whiskermenu-window treeview:hover {
+    border-radius: 3px;
+}
+
